@@ -1,6 +1,3 @@
-// pages/index.tsx
-
-
 
 interface Block {
   number: number;
